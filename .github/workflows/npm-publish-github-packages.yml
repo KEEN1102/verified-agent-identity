@@ -8,7 +8,7 @@ on:
         required: true
         default: 'keendz'
       agent_description:
-        description: 'dancayairdrop'
+        description: 'keendz'
         required: true
         default: 'finder AI Agent'
 
