@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: 'keendz'
+        description: 'keenndz'
         required: true
-        default: 'keendz'
+        default: 'keenndz'
       agent_description:
-        description: 'keendz'
+        description: 'keenndz'
         required: true
         default: 'finder AI Agent'
 
